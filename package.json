@@ -37,7 +37,7 @@
     "hint"
   ],
   "license": "ISC",
-  "main": "lib/index.js",
+  "main": "geojsonhint.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/mapbox/geojsonhint.git"
